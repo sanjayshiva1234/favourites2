@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+}
+
+#hobbies {
+    background-color: floralwhite;
+    font-family: cursive;
+    text-align: center;
+}
+
+#favourites {
+    background-color: antiquewhite;
+    font-family: cursive;
+    text-align: center;
+}
+
+#boruto {
+    text-align: center;
+    image-resolution: from-image;
+    width: auto;
+}
+
+.menu {
+    list-style: none;
+    font-family: monospace;
+    position: fixed;
+    top: 0px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: white;
+    margin-top: 0px;
+}
+
+#special moves {
+    text-align: center;
+    font-family: cursive;
+    background-color: aqua;
+}
+.links {
+    display: inline;
+    color: crimson;
+    padding-right: 25px;
+    padding-left: 33px;
+    font-family: fantasy;
+    font-size: 22px;
+}
+#goku{
+ font-family: cursive;   
+text-decoration-color: chartreuse;
+}
+#vegeta{
+    font-family: monospace;
+    text-decoration-color: deeppink;
+}
+#naruto{
+    font-family: sans-serif;
+    text-decoration-color: deepskyblue;
+}
+#boruto1{
+    text-decoration-color: blue;;
+    font-family: serif;
+}
+.gokupic{
+    width: 150px;
+}
+.vegetapic{
+    width: 150px;
+}
+.borutopic{
+    width: 150px;
+}
+.narutopic{
+    width: 150px;
+}
